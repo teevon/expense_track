@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotelMgtSyst_Accounting", "hotelMgtSyst_Accounting\hotelMgtSyst_Accounting.csproj", "{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "hotAcc", "hotAcc\hotAcc.vdproj", "{717A56E4-55D1-4627-B760-EECEE24390D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		hotelAccounts|Any CPU = hotelAccounts|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.hotelAccounts|Any CPU.ActiveCfg = Release|Any CPU
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.hotelAccounts|Any CPU.Build.0 = Release|Any CPU
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7033831-2AFD-44CB-ACB3-83FFA865FEC3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.Debug|Any CPU.ActiveCfg = Debug
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.hotelAccounts|Any CPU.ActiveCfg = Release
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.hotelAccounts|Any CPU.Build.0 = Release
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.hotelAccounts|Any CPU.Deploy.0 = Release
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.Release|Any CPU.ActiveCfg = Debug
+		{717A56E4-55D1-4627-B760-EECEE24390D4}.Release|Any CPU.Build.0 = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

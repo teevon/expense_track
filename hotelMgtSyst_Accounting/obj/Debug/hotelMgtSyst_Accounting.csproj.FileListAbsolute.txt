@@ -1,0 +1,16 @@
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotel_mgt_syst.mdf
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotel_mgt_syst_log.ldf
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotelMgtSyst_Accounting.exe.config
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotelMgtSyst_Accounting.exe.manifest
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotelMgtSyst_Accounting.application
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotelMgtSyst_Accounting.exe
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\bin\Debug\hotelMgtSyst_Accounting.pdb
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.expense_form.resources
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.hotelAccounts.resources
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.Logon.resources
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.Properties.Resources.resources
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.csproj.GenerateResource.Cache
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.exe.manifest
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.application
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.exe
+C:\Users\Tego\Documents\Visual Studio 2015\Projects\hotelMgtSyst_Accounting\hotelMgtSyst_Accounting\obj\Debug\hotelMgtSyst_Accounting.pdb
